@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    background: black;
+}
+.op p {
+    text-align: center;
+    color: red;
+    margin-top: 276px;
+    font-size: 71px;
+    font-style: italic;
+}
+.op{
+    background-color: skyblue;
+    height: 100%;
+    width: 100%;
+}
